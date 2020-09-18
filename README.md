@@ -1,5 +1,5 @@
 # Azure Administration: Implement and Manage Storage
-This is the repository for the LinkedIn Learning course ESLint: Customizing Styles. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course EAzure Administration: Implement and Manage Storage. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Azure Administration: Implement and Manage Storage][lil-thumbnail-url] 
 Learn how to manage Azure storage, including Blob storage and file shares. This demo-heavy course is for any administrator who wants to be able to configure and secure cloud-based storage options with Azure, and those who want to prepare for the coveted Microsoft Azure Administrator certification exam (AZ-104). Instructor Sharon Bennet provides hands-on demonstrations that cover creating and configuring storage accounts, importing and exporting data to Azure, configuring Azure file shares, and implementing Azure Blob storage. Plus, learn how to make sure your data is secure with access keys and Azure AD Authentication. Each chapter is filled with practical challenges to practice your new Azure administration skills.
